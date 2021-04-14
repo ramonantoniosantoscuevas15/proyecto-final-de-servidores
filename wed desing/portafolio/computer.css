@@ -1,0 +1,41 @@
+#menu ul {
+  background: #F4F4F4;
+  border: 1px solid #7C7C7C;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#menu ul li a {
+  color: #333;
+  display: block;
+  padding: .3em;
+  text-decoration: none;
+}
+#menu ul li {
+  float: left;
+  width: 10%;
+}
+#menu ul {
+  overflow: hidden;
+}
+#cabecera #buscar{float:right}#menu ul#menu_principal li{display:inline;float:left}
+
+#cabecera{clear:both}
+#menu{clear:both}
+#contenido{float:right;width:78%}
+#contenido #principal{float:left;width:68%}
+#pie{clear:both}#cabecera #logo{float:left}
+#cabecera #buscador{float:right}#menu ul#menu_principal li{display:inline;float:left}
+#pie .copyright{float:right}
+#pie{margin-top:2em;}
+h1,h2,h3{color:white;}
+#pie{color:white;}
+body{ 
+background: linear-gradient(0, rgba(4, 220, 147, 0.47) 0%, rgba(4, 220, 147, 0.47) 25%,rgba(18, 181, 170, 0.47) 25%, rgba(18, 181, 170, 0.47) 50%,rgba(32, 143, 194, 0.47) 50%, rgba(32, 143, 194, 0.47) 75%,rgba(46, 104, 217, 0.47) 75%, rgba(46, 104, 217, 0.47) 100%),linear-gradient(90deg, rgb(33, 82, 198) 0%, rgb(33, 82, 198) 20%,rgb(41, 122, 194) 20%, rgb(41, 122, 194) 40%,rgb(48, 161, 189) 40%, rgb(48, 161, 189) 60%,rgb(56, 201, 185) 60%, rgb(56, 201, 185) 80%,rgb(63, 240, 180) 80%, rgb(63, 240, 180) 100%);
+}
+
+table{
+background: white;
+}
+label{background: white;}
+
